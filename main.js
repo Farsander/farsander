@@ -173,7 +173,7 @@ var AppModule = /** @class */ (function () {
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "<p>\n  contacts works!\n</p>\n"
+module.exports = "<p>\n  Contacts works!\n</p>\n"
 
 /***/ }),
 
